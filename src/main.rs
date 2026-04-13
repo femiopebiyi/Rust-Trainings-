@@ -1,4 +1,6 @@
+mod quiz2;
 // This is a quiz for the following sections:
+
 // - Strings
 // - Vecs
 // - Move semantics
